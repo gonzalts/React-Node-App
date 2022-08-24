@@ -1,0 +1,64 @@
+.carousel img {
+  width: auto;
+  height: 600px;
+  max-height: 600px;
+}
+
+.link {
+  margin-right:25px;
+  color:rgb(15, 15, 15);
+}
+
+.col {
+  background: rgb(15, 15, 15);
+  border: 1px solid rgb(15, 15, 15);
+  text-align: center;
+}
+
+.row {
+  background: rgb(15, 15, 15);
+  border: 1px solid rgb(15, 15, 15);
+}
+
+.customCard {
+  background-color: rgb(33,37,41);
+  background-size: contain;
+}
+
+.card {
+  width: 20rem;
+  min-height: 25rem;
+  margin: auto;
+  border-width: 0.1rem !important;
+}
+
+.card:hover{
+  transform: scale(1.05);
+  opacity: 0.8;
+}
+
+.cusCardImg {
+  height: 12rem !important;
+}
+
+.sum-prod {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.link:hover {
+  opacity: 0.5;
+}
+
+.formControl {
+  margin: auto !important;
+}
+
+.body-content {
+  background: rgb(15, 15, 15);
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  min-height: 60rem;
+  flex: 1;
+}
